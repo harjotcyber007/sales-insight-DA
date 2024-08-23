@@ -4,5 +4,7 @@ We got project for hardware sales comapnay and manager hired data analyst team t
 
 ![image](https://github.com/user-attachments/assets/b2fe7e96-2c1b-4a67-9175-292875871a1d)
 
+project on hold due to non complying software authorization
+
 
 
